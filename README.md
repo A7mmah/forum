@@ -6,6 +6,7 @@
 ## Table of contents
 - [Good Practices](#good-practices)
 - [When to create a new issue](#when-to-create-a-new-issue)
+- [Labels](#labels)
 - [Code of conduct](#code-of-conduct)
 - [Language](#language)
 
