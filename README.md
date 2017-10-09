@@ -55,7 +55,7 @@ Labels: computer science, discussion
 
 After you create the issue, one of the OSSU's members will set the labels accordingly with the ones you put on your issue.
 
-### Labels options
+### Options
 - `computer-science`
 - `data-science`
 - `bioinformatics`
